@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/l-burrell/cwreactpart1/static/css/main.b1d7ec7b.css",
-    "main.js": "/l-burrell/cwreactpart1/static/js/main.ab1aef37.js",
-    "static/js/787.e3ad3da1.chunk.js": "/l-burrell/cwreactpart1/static/js/787.e3ad3da1.chunk.js",
-    "index.html": "/l-burrell/cwreactpart1/index.html",
-    "main.b1d7ec7b.css.map": "/l-burrell/cwreactpart1/static/css/main.b1d7ec7b.css.map",
-    "main.ab1aef37.js.map": "/l-burrell/cwreactpart1/static/js/main.ab1aef37.js.map",
-    "787.e3ad3da1.chunk.js.map": "/l-burrell/cwreactpart1/static/js/787.e3ad3da1.chunk.js.map"
+    "main.css": "/l-burrell/cwreactpart1/tree/main/static/css/main.b1d7ec7b.css",
+    "main.js": "/l-burrell/cwreactpart1/tree/main/static/js/main.b9b852c7.js",
+    "static/js/787.e3ad3da1.chunk.js": "/l-burrell/cwreactpart1/tree/main/static/js/787.e3ad3da1.chunk.js",
+    "index.html": "/l-burrell/cwreactpart1/tree/main/index.html",
+    "main.b1d7ec7b.css.map": "/l-burrell/cwreactpart1/tree/main/static/css/main.b1d7ec7b.css.map",
+    "main.b9b852c7.js.map": "/l-burrell/cwreactpart1/tree/main/static/js/main.b9b852c7.js.map",
+    "787.e3ad3da1.chunk.js.map": "/l-burrell/cwreactpart1/tree/main/static/js/787.e3ad3da1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d7ec7b.css",
-    "static/js/main.ab1aef37.js"
+    "static/js/main.b9b852c7.js"
   ]
 }
